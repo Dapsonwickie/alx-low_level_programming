@@ -16,7 +16,7 @@ if (c != 50)
 {
 if (c != 52)
 {
-_putchar(c)
+_putchar(c);
 }
 }
 }
