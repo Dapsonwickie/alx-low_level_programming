@@ -5,6 +5,7 @@
  * @s: string to be searched
  * @accept: matching string
  * Return: an unsigned integer indicating the length of matched string
+ * consist only of bytes from accept.
  */
 
 unsigned int _strspn(char *s, char *accept)
